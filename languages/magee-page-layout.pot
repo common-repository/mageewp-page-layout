@@ -1,0 +1,2794 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Magee Page Layout\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-21 15:30+0800\n"
+"PO-Revision-Date: 2017-01-12 11:52+0800\n"
+"Last-Translator: shijun quan <support@mageewp.com>\n"
+"Language-Team: MageeWP\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/frontend/helpers/mpl.ajax.php:39
+#: includes/frontend/helpers/mpl.ajax.php:218
+#: includes/frontend/helpers/mpl.ajax.php:288
+msgid "Fail"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:79
+msgid "Can not get page id"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:153
+msgid "Warning: Fill correct facebook infomation to show new feed."
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:159
+#: includes/frontend/helpers/mpl.ajax.php:268
+msgid "ok"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:263
+msgid "Warning: Fill correct instagram infomation to show new feed."
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:433
+msgid "Ok"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:514
+msgid "second"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:515
+msgid "minute"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:516
+msgid "hour"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:517
+msgid "day"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:518
+msgid "week"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:519
+msgid "month"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:520
+msgid "year"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:521
+msgid "decade"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:525
+msgid "seconds"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:526
+msgid "minutes"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:527
+msgid "hours"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:528
+msgid "days"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:529
+msgid "weeks"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:530
+msgid "months"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:531
+msgid "years"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:532
+msgid "decades"
+msgstr ""
+
+#: includes/frontend/helpers/mpl.ajax.php:538
+msgid "ago"
+msgstr ""
+
+#: includes/metabox/includes/class-mpl-metaboxes.php:44
+msgid "Quick Field Metabox"
+msgstr ""
+
+#: includes/metabox/includes/class-mpl-metaboxes.php:156
+msgid "General"
+msgstr ""
+
+#: includes/mpl.actions.php:393
+msgid "Edit with MPL in backend"
+msgstr ""
+
+#: includes/mpl.actions.php:405
+msgid "Edit with MPL in frontend"
+msgstr ""
+
+#: includes/mpl.actions.php:543 includes/mpl.ajax.php:798
+msgid "Notice: You are using wrong way to display MPL Content"
+msgstr ""
+
+#: includes/mpl.actions.php:677 includes/mpl.actions.php:811
+msgid "Edit with MPL"
+msgstr ""
+
+#: includes/mpl.ajax.php:282
+msgid "Your sections profile has been created successful"
+msgstr ""
+
+#: includes/mpl.ajax.php:326
+msgid "Error #501! could not find profile"
+msgstr ""
+
+#: includes/mpl.ajax.php:375
+msgid "Error #723! could not find profile"
+msgstr ""
+
+#: includes/mpl.ajax.php:710 includes/mpl.ajax.php:1683
+#: includes/mpl.ajax.php:1748
+msgid "Error: Invalid Post ID"
+msgstr ""
+
+#: includes/mpl.ajax.php:718 includes/mpl.ajax.php:1691
+msgid "Error: Post not exist"
+msgstr ""
+
+#: includes/mpl.ajax.php:730 includes/mpl.ajax.php:1701
+#: includes/mpl.ajax.php:1760
+msgid "Error: You do not have permission to edit this post"
+msgstr ""
+
+#: includes/mpl.ajax.php:773
+msgid "Your content has been saved Successful"
+msgstr ""
+
+#: includes/mpl.ajax.php:778 includes/mpl.ajax.php:1739
+msgid "Error: could not save the content."
+msgstr ""
+
+#: includes/mpl.ajax.php:1066 includes/mpl.ajax.php:1134
+msgid "Error, missing font family"
+msgstr ""
+
+#: includes/mpl.ajax.php:1070
+msgid "Error, font family already exists"
+msgstr ""
+
+#: includes/mpl.ajax.php:1074
+msgid "Error, You have added too much fonts. Your page will load very slowly."
+msgstr ""
+
+#: includes/mpl.ajax.php:1103
+msgid "Your settings have been updated"
+msgstr ""
+
+#: includes/mpl.ajax.php:1138
+msgid "Error, font family does not exists"
+msgstr ""
+
+#: includes/mpl.ajax.php:1191
+msgid "Homepage Classic"
+msgstr ""
+
+#: includes/mpl.ajax.php:1194 includes/mpl.ajax.php:1205
+#: includes/mpl.ajax.php:1216 includes/mpl.ajax.php:1227
+#: includes/mpl.ajax.php:1238 includes/mpl.ajax.php:1249
+#: includes/mpl.ajax.php:1260 includes/mpl.ajax.php:1271
+#: includes/mpl.ajax.php:1282 includes/mpl.ajax.php:1293
+#: includes/mpl.ajax.php:1304 includes/mpl.ajax.php:1315
+#: includes/mpl.ajax.php:1326 includes/mpl.ajax.php:1337
+#: includes/mpl.ajax.php:1348 includes/mpl.ajax.php:1359
+msgid "Preview"
+msgstr ""
+
+#: includes/mpl.ajax.php:1194 includes/mpl.ajax.php:1205
+#: includes/mpl.ajax.php:1216 includes/mpl.ajax.php:1227
+#: includes/mpl.ajax.php:1238 includes/mpl.ajax.php:1249
+#: includes/mpl.ajax.php:1260 includes/mpl.ajax.php:1271
+#: includes/mpl.ajax.php:1282 includes/mpl.ajax.php:1293
+#: includes/mpl.ajax.php:1304 includes/mpl.ajax.php:1315
+#: includes/mpl.ajax.php:1326 includes/mpl.ajax.php:1337
+#: includes/mpl.ajax.php:1348 includes/mpl.ajax.php:1359
+msgid "Import"
+msgstr ""
+
+#: includes/mpl.ajax.php:1202
+msgid "Homepage 2"
+msgstr ""
+
+#: includes/mpl.ajax.php:1213
+msgid "Homepage 3"
+msgstr ""
+
+#: includes/mpl.ajax.php:1224
+msgid "Homepage 4"
+msgstr ""
+
+#: includes/mpl.ajax.php:1235
+msgid "Homepage 5"
+msgstr ""
+
+#: includes/mpl.ajax.php:1246
+msgid "Homepage 6"
+msgstr ""
+
+#: includes/mpl.ajax.php:1257
+msgid "Homepage Onetone"
+msgstr ""
+
+#: includes/mpl.ajax.php:1268
+msgid "About 1"
+msgstr ""
+
+#: includes/mpl.ajax.php:1279
+msgid "About 2"
+msgstr ""
+
+#: includes/mpl.ajax.php:1290
+msgid "About 3"
+msgstr ""
+
+#: includes/mpl.ajax.php:1301
+msgid "Contact 1"
+msgstr ""
+
+#: includes/mpl.ajax.php:1312
+msgid "Contact 2"
+msgstr ""
+
+#: includes/mpl.ajax.php:1323
+msgid "Services 1"
+msgstr ""
+
+#: includes/mpl.ajax.php:1334
+msgid "Services 2"
+msgstr ""
+
+#: includes/mpl.ajax.php:1345
+msgid "Services 3"
+msgstr ""
+
+#: includes/mpl.ajax.php:1356
+msgid "404"
+msgstr ""
+
+#: includes/mpl.ajax.php:1420 includes/mpl.ajax.php:1454
+msgid "Error: The section does not exist or has been removed"
+msgstr ""
+
+#: includes/mpl.ajax.php:1422
+msgid "Error: The section content is empty"
+msgstr ""
+
+#: includes/mpl.ajax.php:1536
+msgid "The content is empty, please edit section to add content"
+msgstr ""
+
+#: includes/mpl.ajax.php:1551
+msgid "The content is empty"
+msgstr ""
+
+#: includes/mpl.ajax.php:1597
+msgid "Error message"
+msgstr ""
+
+#: includes/mpl.ajax.php:1605
+msgid "All cache have been successfully deleted"
+msgstr ""
+
+#: includes/mpl.ajax.php:1608
+msgid "Your cache were cleaned or could not delete cache"
+msgstr ""
+
+#: includes/mpl.ajax.php:1629
+msgid "Deactive successful"
+msgstr ""
+
+#: includes/mpl.ajax.php:1639
+msgid "Could not deactive, please check the writable permission"
+msgstr ""
+
+#: includes/mpl.ajax.php:1782
+msgid "Success: Saved Post Meta Success"
+msgstr ""
+
+#: includes/mpl.fonts.php:21 includes/mpl.param.types.php:1522
+msgid "Fonts Manager"
+msgstr ""
+
+#: includes/mpl.fonts.php:25
+msgid "Search by name"
+msgstr ""
+
+#: includes/mpl.fonts.php:31
+msgid "Sorting"
+msgstr ""
+
+#: includes/mpl.fonts.php:71
+msgid "Your Fonts"
+msgstr ""
+
+#: includes/mpl.fonts.php:75
+msgid "Load Time"
+msgstr ""
+
+#: includes/mpl.fonts.php:90
+msgid "List fonts used in your site"
+msgstr ""
+
+#: includes/mpl.fonts.php:91
+msgid "Please remove unused fonts to make your site load faster"
+msgstr ""
+
+#: includes/mpl.front.php:270
+msgid "Section content is empty, please edit section to add content"
+msgstr ""
+
+#: includes/mpl.front.php:285
+msgid "MPL fatal error occurred: Infinite loop when trying to include section"
+msgstr ""
+
+#: includes/mpl.functions.php:282
+msgid "Save Changes"
+msgstr ""
+
+#: includes/mpl.functions.php:545
+msgid "Error: Could not read data"
+msgstr ""
+
+#: includes/mpl.functions.php:549
+msgid "Error: Could not find the file readme.txt"
+msgstr ""
+
+#: includes/mpl.functions.php:588
+msgid "Oops, there are no template found in package"
+msgstr ""
+
+#: includes/mpl.js_languages.php:3
+msgid "Access Denied!"
+msgstr ""
+
+#: includes/mpl.js_languages.php:4
+msgid "OK"
+msgstr ""
+
+#: includes/mpl.js_languages.php:5
+msgid "Saving"
+msgstr ""
+
+#: includes/mpl.js_languages.php:6 includes/mpl.templates.php:827
+#: includes/mpl.templates.php:931
+msgid "Edit"
+msgstr ""
+
+#: includes/mpl.js_languages.php:7 includes/mpl.templates.php:833
+msgid "Copy"
+msgstr ""
+
+#: includes/mpl.js_languages.php:8
+msgid "Paste"
+msgstr ""
+
+#: includes/mpl.js_languages.php:9 includes/mpl.templates.php:839
+msgid "Delete"
+msgstr ""
+
+#: includes/mpl.js_languages.php:10 includes/mpl.templates.php:830
+#: includes/mpl.templates.php:1146
+msgid "Double"
+msgstr ""
+
+#: includes/mpl.js_languages.php:11
+msgid "Insert"
+msgstr ""
+
+#: includes/mpl.js_languages.php:12 includes/mpl.templates.php:849
+msgid "Add"
+msgstr ""
+
+#: includes/mpl.js_languages.php:13
+msgid "Before"
+msgstr ""
+
+#: includes/mpl.js_languages.php:14
+msgid "After"
+msgstr ""
+
+#: includes/mpl.js_languages.php:15 includes/mpl.maps.php:786
+#: includes/mpl.maps.php:2747
+msgid "Top"
+msgstr ""
+
+#: includes/mpl.js_languages.php:16 includes/mpl.maps.php:787
+#: includes/mpl.maps.php:2748
+msgid "Bottom"
+msgstr ""
+
+#: includes/mpl.js_languages.php:17
+msgid "Move"
+msgstr ""
+
+#: includes/mpl.js_languages.php:18 includes/mpl.templates.php:472
+msgid "Cancel"
+msgstr ""
+
+#: includes/mpl.js_languages.php:19
+msgid "Order"
+msgstr ""
+
+#: includes/mpl.js_languages.php:20
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/mpl.js_languages.php:21
+msgid "Processing"
+msgstr ""
+
+#: includes/mpl.js_languages.php:22
+msgid "Loading"
+msgstr ""
+
+#: includes/mpl.js_languages.php:23
+msgid ""
+"Security Error: Your session has expired or you are trying to access "
+"unauthorized"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid ""
+"The changes you made with MPL will be lost if you navigate away from this "
+"page."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24 includes/mpl.templates.php:41
+#: includes/mpl.templates.php:42 includes/mpl.templates.php:797
+#: includes/mpl.templates.php:866
+msgid "Add Sections"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Search by Name"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Sorry! No Web Storage support."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Your clipboard is currently empty, please copy elements before pasting."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "No items selected"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Select one method"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Push to selected Section"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Replace selected Section"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "These fields cannot be empty"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24 includes/mpl.maps.php:264
+#: includes/mpl.maps.php:911 includes/mpl.maps.php:2309
+#: includes/mpl.maps.php:2975 includes/mpl.maps.php:3180
+#: includes/mpl.maps.php:3395 includes/mpl.maps.php:3632
+#: includes/mpl.maps.php:3818 includes/mpl.maps.php:4081
+#: includes/mpl.maps.php:4422 includes/mpl.widgets.php:110
+msgid "Title"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Category"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Whoops, looks like something went wrong."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Are you sure? You did not upload screenshot."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "The screenshot helps you easily know the contents of section."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Are you sure? All sections of this profile will also be deleted."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Please enter the new name"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "File type must be .mpl"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "The File APIs are not fully supported in this browser."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Error! Data structure has been broken."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Layouts"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Successful"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Are you sure? Once it is deleted, you can not able to restore."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Undo Delete"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Attribute Name"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Add New"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Box Style"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24 includes/mpl.param.types.php:660
+msgid "CSS Code"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "MPL Box - HTML Code"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "MPL Box - CSS Code"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Notice:CSS must contain selectors."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24 includes/mpl.templates.php:152
+msgid "Beautifier"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Search Results:"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "The key you entered was not found."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Copy style only"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Push your content"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Notice:The content below is the latest that you copied."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid ""
+"Your ClipBoard is currently empty. Please copy row or element before pasting!"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Could not find mapping for this element."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Storage of row in profile."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Row layouts"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Notice:Do not include selectors. Example:"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Choose Images"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Hit Enter to save, ESC to cancel."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Error:Post ID not found."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Error:Post type not found."
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "The data has been updated to live view (ESC to close)"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Please save or submit first!"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Live Preview"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid ""
+"\\nMPL Warning: \\n\\nThe content is empty. Are you sure that you want to "
+"save the empty content?\\n"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid ""
+"\\nMPL Warning: \\n\\nMaximum 10 columns. Could not insert more column.\\n"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "\\nThe presets name already exists, do you want to overwrite it?\\n"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid ""
+"\\nSomething went wrong with data structure and we can not process your "
+"action.\\n"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid ""
+"\\nNOTICE:\\n\\nwe have detected the mpl builder being placed in a container "
+"is not full-width. This will interfere when you want to stretch the row to "
+"full width.\\n\\n Please make sure that the page\\'s content is placed "
+"inside the section with a width equal to 100%.\\n"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Search elements by name"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Copy successful"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Cut successful"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24 includes/mpl.param.types.php:543
+#: includes/mpl.param.types.php:565 includes/mpl.param.types.php:595
+#: includes/mpl.param.types.php:1300
+msgid "Delete this image"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Templates Library"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Error infinte loop: Can not include itself"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Error, you have to copy first"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Error, can not paste row`s copied here"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Paste style only"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Copy row successful"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Copy style successful"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Select parent node"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "MPL HUB Online - Prebuilt Sections/Templates"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "Clear Style"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid "You can not add new template to Prebuilt Template, it is static file"
+msgstr ""
+
+#: includes/mpl.js_languages.php:24
+msgid ""
+"Are you sure that you want to clear all cache? It includes static cache html "
+"files, combined css, combined js. \\n\\nThey will be recreated with new "
+"fresh data.\\n\\n"
+msgstr ""
+
+#: includes/mpl.live.builder.php:38
+msgid "How responsive works?"
+msgstr ""
+
+#: includes/mpl.maps.php:17 includes/mpl.maps.php:18
+msgid "MPL Section"
+msgstr ""
+
+#: includes/mpl.maps.php:33 includes/mpl.maps.php:344 includes/mpl.maps.php:350
+#: includes/mpl.maps.php:649 includes/mpl.maps.php:655
+#: includes/mpl.maps.php:1673 includes/mpl.maps.php:1679
+#: includes/mpl.maps.php:3901 includes/mpl.maps.php:3907
+msgid "Color"
+msgstr ""
+
+#: includes/mpl.maps.php:34 includes/mpl.maps.php:74 includes/mpl.maps.php:345
+#: includes/mpl.maps.php:351 includes/mpl.maps.php:650
+#: includes/mpl.maps.php:656 includes/mpl.maps.php:1674
+#: includes/mpl.maps.php:1680 includes/mpl.maps.php:3902
+#: includes/mpl.maps.php:3908
+msgid "Font Size"
+msgstr ""
+
+#: includes/mpl.maps.php:35 includes/mpl.maps.php:347 includes/mpl.maps.php:353
+#: includes/mpl.maps.php:652 includes/mpl.maps.php:658
+#: includes/mpl.maps.php:1676 includes/mpl.maps.php:1682
+#: includes/mpl.maps.php:3904 includes/mpl.maps.php:3910
+msgid "Font Weight"
+msgstr ""
+
+#: includes/mpl.maps.php:36
+msgid "Font Style"
+msgstr ""
+
+#: includes/mpl.maps.php:37 includes/mpl.maps.php:75 includes/mpl.maps.php:757
+msgid "Text Align"
+msgstr ""
+
+#: includes/mpl.maps.php:38
+msgid "Text Shadow"
+msgstr ""
+
+#: includes/mpl.maps.php:39
+msgid "Text Transform"
+msgstr ""
+
+#: includes/mpl.maps.php:40
+msgid "Text Decoration"
+msgstr ""
+
+#: includes/mpl.maps.php:41 includes/mpl.maps.php:76 includes/mpl.maps.php:346
+#: includes/mpl.maps.php:352 includes/mpl.maps.php:651
+#: includes/mpl.maps.php:657 includes/mpl.maps.php:1675
+#: includes/mpl.maps.php:1681 includes/mpl.maps.php:3903
+#: includes/mpl.maps.php:3909
+msgid "Line Height"
+msgstr ""
+
+#: includes/mpl.maps.php:42
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/mpl.maps.php:43
+msgid "Overflow"
+msgstr ""
+
+#: includes/mpl.maps.php:44 includes/mpl.maps.php:77
+msgid "Word Break"
+msgstr ""
+
+#: includes/mpl.maps.php:54 includes/mpl.maps.php:89 includes/mpl.maps.php:363
+#: includes/mpl.maps.php:682 includes/mpl.maps.php:1691
+#: includes/mpl.maps.php:3920
+msgid "Margin"
+msgstr ""
+
+#: includes/mpl.maps.php:55 includes/mpl.maps.php:90 includes/mpl.maps.php:364
+#: includes/mpl.maps.php:683 includes/mpl.maps.php:1692
+#: includes/mpl.maps.php:3921
+msgid "Padding"
+msgstr ""
+
+#: includes/mpl.maps.php:56 includes/mpl.maps.php:91
+msgid "Border"
+msgstr ""
+
+#: includes/mpl.maps.php:57 includes/mpl.maps.php:88
+msgid "Width"
+msgstr ""
+
+#: includes/mpl.maps.php:58 includes/mpl.maps.php:92
+msgid "Height"
+msgstr ""
+
+#: includes/mpl.maps.php:59 includes/mpl.maps.php:93
+msgid "Border Radius"
+msgstr ""
+
+#: includes/mpl.maps.php:60 includes/mpl.maps.php:94
+msgid "Float"
+msgstr ""
+
+#: includes/mpl.maps.php:61 includes/mpl.maps.php:95
+msgid "Display"
+msgstr ""
+
+#: includes/mpl.maps.php:62
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/mpl.maps.php:63
+msgid "Opacity"
+msgstr ""
+
+#: includes/mpl.maps.php:68 includes/mpl.maps.php:78 includes/mpl.maps.php:99
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/mpl.maps.php:106
+msgid "Custom Section"
+msgstr ""
+
+#: includes/mpl.maps.php:115 includes/mpl.maps.php:749
+#: includes/mpl.maps.php:1656
+msgid "Content"
+msgstr ""
+
+#: includes/mpl.maps.php:125
+msgid "Place content elements inside the row"
+msgstr ""
+
+#: includes/mpl.maps.php:127
+msgid "Section Settings"
+msgstr ""
+
+#: includes/mpl.maps.php:136 includes/mpl.maps.php:379
+#: includes/mpl.maps.php:698 includes/mpl.maps.php:842
+#: includes/mpl.maps.php:1105 includes/mpl.maps.php:1283
+#: includes/mpl.maps.php:1440 includes/mpl.maps.php:1602
+#: includes/mpl.maps.php:1702 includes/mpl.maps.php:1849
+#: includes/mpl.maps.php:2047 includes/mpl.maps.php:2241
+#: includes/mpl.maps.php:2503 includes/mpl.maps.php:2679
+#: includes/mpl.maps.php:2832 includes/mpl.maps.php:3054
+#: includes/mpl.maps.php:3269 includes/mpl.maps.php:3484
+#: includes/mpl.maps.php:3705 includes/mpl.maps.php:3936
+#: includes/mpl.maps.php:4185 includes/mpl.maps.php:4370
+#: includes/mpl.maps.php:4521
+msgid "Section ID"
+msgstr ""
+
+#: includes/mpl.maps.php:138 includes/mpl.maps.php:381
+#: includes/mpl.maps.php:700 includes/mpl.maps.php:844
+#: includes/mpl.maps.php:1107 includes/mpl.maps.php:1285
+#: includes/mpl.maps.php:1442 includes/mpl.maps.php:1604
+#: includes/mpl.maps.php:1704 includes/mpl.maps.php:1851
+#: includes/mpl.maps.php:2049 includes/mpl.maps.php:2243
+#: includes/mpl.maps.php:2505 includes/mpl.maps.php:2681
+#: includes/mpl.maps.php:2834 includes/mpl.maps.php:3056
+#: includes/mpl.maps.php:3271 includes/mpl.maps.php:3486
+#: includes/mpl.maps.php:3707 includes/mpl.maps.php:3938
+#: includes/mpl.maps.php:4187 includes/mpl.maps.php:4372
+#: includes/mpl.maps.php:4523
+msgid "The unique identifier of the section."
+msgstr ""
+
+#: includes/mpl.maps.php:142 includes/mpl.maps.php:386
+#: includes/mpl.maps.php:705 includes/mpl.maps.php:849
+#: includes/mpl.maps.php:1112 includes/mpl.maps.php:1290
+#: includes/mpl.maps.php:1447 includes/mpl.maps.php:1609
+#: includes/mpl.maps.php:1709 includes/mpl.maps.php:1856
+#: includes/mpl.maps.php:2054 includes/mpl.maps.php:2248
+#: includes/mpl.maps.php:2510 includes/mpl.maps.php:2686
+#: includes/mpl.maps.php:2839 includes/mpl.maps.php:3061
+#: includes/mpl.maps.php:3276 includes/mpl.maps.php:3491
+#: includes/mpl.maps.php:3712 includes/mpl.maps.php:3943
+#: includes/mpl.maps.php:4192 includes/mpl.maps.php:4377
+#: includes/mpl.maps.php:4528
+msgid "Section extra classes name"
+msgstr ""
+
+#: includes/mpl.maps.php:144
+msgid "Add additional custom classes to the Row."
+msgstr ""
+
+#: includes/mpl.maps.php:161
+msgid "Container class name"
+msgstr ""
+
+#: includes/mpl.maps.php:163
+msgid "Add additional classes name to the container in a column."
+msgstr ""
+
+#: includes/mpl.maps.php:167
+msgid "Column class name"
+msgstr ""
+
+#: includes/mpl.maps.php:169
+msgid "Add additional classes name to ther outer layer of a column."
+msgstr ""
+
+#: includes/mpl.maps.php:173
+msgid "Column ID"
+msgstr ""
+
+#: includes/mpl.maps.php:175
+msgid "Add ID attribute to ther outer layer of a column."
+msgstr ""
+
+#: includes/mpl.maps.php:179
+msgid "Use video background?"
+msgstr ""
+
+#: includes/mpl.maps.php:181
+msgid "Background video will be applied to the column."
+msgstr ""
+
+#: includes/mpl.maps.php:185
+msgid "YouTube link"
+msgstr ""
+
+#: includes/mpl.maps.php:188
+msgid "Add YouTube link."
+msgstr ""
+
+#: includes/mpl.maps.php:207 includes/mpl.maps.php:3749
+msgid "Slider"
+msgstr ""
+
+#: includes/mpl.maps.php:217 includes/mpl.maps.php:415
+#: includes/mpl.maps.php:735 includes/mpl.maps.php:883
+#: includes/mpl.maps.php:1146 includes/mpl.maps.php:1324
+#: includes/mpl.maps.php:1481 includes/mpl.maps.php:1642
+#: includes/mpl.maps.php:1730 includes/mpl.maps.php:1900
+#: includes/mpl.maps.php:2089 includes/mpl.maps.php:2281
+#: includes/mpl.maps.php:2568 includes/mpl.maps.php:2719
+#: includes/mpl.maps.php:2872 includes/mpl.maps.php:3095
+#: includes/mpl.maps.php:3310 includes/mpl.maps.php:3562
+#: includes/mpl.maps.php:3972 includes/mpl.maps.php:4226
+#: includes/mpl.maps.php:4444
+msgid "Section Title"
+msgstr ""
+
+#: includes/mpl.maps.php:224 includes/mpl.maps.php:429
+#: includes/mpl.maps.php:3757
+msgid "Enable Fullheight"
+msgstr ""
+
+#: includes/mpl.maps.php:232 includes/mpl.maps.php:3785
+msgid "Slides"
+msgstr ""
+
+#: includes/mpl.maps.php:234 includes/mpl.maps.php:3787
+msgid ""
+"Repeat this fields with each item created, Each item corresponding slide "
+"element."
+msgstr ""
+
+#: includes/mpl.maps.php:235 includes/mpl.maps.php:3788
+msgid "Add new slide"
+msgstr ""
+
+#: includes/mpl.maps.php:271 includes/mpl.maps.php:456
+#: includes/mpl.maps.php:3844
+msgid "Title Style"
+msgstr ""
+
+#: includes/mpl.maps.php:282 includes/mpl.maps.php:467
+#: includes/mpl.maps.php:3831
+msgid "Content Align"
+msgstr ""
+
+#: includes/mpl.maps.php:287 includes/mpl.maps.php:473
+#: includes/mpl.maps.php:762 includes/mpl.maps.php:784
+#: includes/mpl.maps.php:2595 includes/mpl.maps.php:2606
+#: includes/mpl.maps.php:2745 includes/mpl.maps.php:2758
+#: includes/mpl.maps.php:3837
+msgid "Left"
+msgstr ""
+
+#: includes/mpl.maps.php:288 includes/mpl.maps.php:474
+#: includes/mpl.maps.php:763 includes/mpl.maps.php:2607
+#: includes/mpl.maps.php:2759 includes/mpl.maps.php:3838
+msgid "Center"
+msgstr ""
+
+#: includes/mpl.maps.php:289 includes/mpl.maps.php:475
+#: includes/mpl.maps.php:764 includes/mpl.maps.php:785
+#: includes/mpl.maps.php:2596 includes/mpl.maps.php:2608
+#: includes/mpl.maps.php:2746 includes/mpl.maps.php:2760
+#: includes/mpl.maps.php:3839
+msgid "Right"
+msgstr ""
+
+#: includes/mpl.maps.php:294 includes/mpl.maps.php:3855
+msgid "Caption"
+msgstr ""
+
+#: includes/mpl.maps.php:302 includes/mpl.maps.php:1991
+#: includes/mpl.maps.php:2583 includes/mpl.maps.php:2734
+#: includes/mpl.maps.php:3825 includes/mpl.maps.php:4069
+#: includes/mpl.maps.php:4308
+msgid "Image"
+msgstr ""
+
+#: includes/mpl.maps.php:308 includes/mpl.maps.php:481
+#: includes/mpl.maps.php:3864
+msgid "Button Text 1"
+msgstr ""
+
+#: includes/mpl.maps.php:314 includes/mpl.maps.php:488
+#: includes/mpl.maps.php:3870
+msgid "Button Link 1"
+msgstr ""
+
+#: includes/mpl.maps.php:320 includes/mpl.maps.php:494
+#: includes/mpl.maps.php:3876
+msgid "Button Text 2"
+msgstr ""
+
+#: includes/mpl.maps.php:326 includes/mpl.maps.php:501
+#: includes/mpl.maps.php:3882
+msgid "Button Link 2"
+msgstr ""
+
+#: includes/mpl.maps.php:338 includes/mpl.maps.php:643
+#: includes/mpl.maps.php:1667 includes/mpl.maps.php:2639
+#: includes/mpl.maps.php:2792 includes/mpl.maps.php:3013
+#: includes/mpl.maps.php:3228 includes/mpl.maps.php:3443
+#: includes/mpl.maps.php:3895
+msgid "css"
+msgstr ""
+
+#: includes/mpl.maps.php:388 includes/mpl.maps.php:707
+#: includes/mpl.maps.php:851 includes/mpl.maps.php:1114
+#: includes/mpl.maps.php:1292 includes/mpl.maps.php:1449
+#: includes/mpl.maps.php:1611 includes/mpl.maps.php:1711
+#: includes/mpl.maps.php:1858 includes/mpl.maps.php:2056
+#: includes/mpl.maps.php:2250 includes/mpl.maps.php:2512
+#: includes/mpl.maps.php:2688 includes/mpl.maps.php:2841
+#: includes/mpl.maps.php:3063 includes/mpl.maps.php:3278
+#: includes/mpl.maps.php:3493 includes/mpl.maps.php:3714
+#: includes/mpl.maps.php:3945 includes/mpl.maps.php:4194
+#: includes/mpl.maps.php:4379 includes/mpl.maps.php:4530
+msgid "Add additional custom classes to the Section."
+msgstr ""
+
+#: includes/mpl.maps.php:406
+msgid "Banner"
+msgstr ""
+
+#: includes/mpl.maps.php:422 includes/mpl.maps.php:742
+#: includes/mpl.maps.php:890 includes/mpl.maps.php:1153
+#: includes/mpl.maps.php:1331 includes/mpl.maps.php:1488
+#: includes/mpl.maps.php:1649 includes/mpl.maps.php:1737
+#: includes/mpl.maps.php:1907 includes/mpl.maps.php:2096
+#: includes/mpl.maps.php:2288 includes/mpl.maps.php:2575
+#: includes/mpl.maps.php:2726 includes/mpl.maps.php:2879
+#: includes/mpl.maps.php:3102 includes/mpl.maps.php:3317
+#: includes/mpl.maps.php:3569 includes/mpl.maps.php:3979
+#: includes/mpl.maps.php:4233 includes/mpl.maps.php:4451
+msgid "Section Subtitle"
+msgstr ""
+
+#: includes/mpl.maps.php:434 includes/mpl.maps.php:3762
+msgid "Yes"
+msgstr ""
+
+#: includes/mpl.maps.php:435 includes/mpl.maps.php:3763
+msgid "No"
+msgstr ""
+
+#: includes/mpl.maps.php:440 includes/mpl.maps.php:3768
+msgid "Slider Height"
+msgstr ""
+
+#: includes/mpl.maps.php:443 includes/mpl.maps.php:3771
+msgid "Set Content Slider Height if without fullheight"
+msgstr ""
+
+#: includes/mpl.maps.php:507
+msgid "Enable Social Icon"
+msgstr ""
+
+#: includes/mpl.maps.php:513
+msgid "Soical Icon 1"
+msgstr ""
+
+#: includes/mpl.maps.php:525
+msgid "Icon Link 1"
+msgstr ""
+
+#: includes/mpl.maps.php:535
+msgid "Soical Icon 2"
+msgstr ""
+
+#: includes/mpl.maps.php:546
+msgid "Icon Link 2"
+msgstr ""
+
+#: includes/mpl.maps.php:556
+msgid "Soical Icon 3"
+msgstr ""
+
+#: includes/mpl.maps.php:567
+msgid "Icon Link 3"
+msgstr ""
+
+#: includes/mpl.maps.php:577
+msgid "Soical Icon 4"
+msgstr ""
+
+#: includes/mpl.maps.php:588
+msgid "Icon Link 4"
+msgstr ""
+
+#: includes/mpl.maps.php:598
+msgid "Soical Icon 5"
+msgstr ""
+
+#: includes/mpl.maps.php:609
+msgid "Icon Link 5"
+msgstr ""
+
+#: includes/mpl.maps.php:619
+msgid "Soical Icon 6"
+msgstr ""
+
+#: includes/mpl.maps.php:630
+msgid "Icon Link 6"
+msgstr ""
+
+#: includes/mpl.maps.php:726
+msgid "Call To Action"
+msgstr ""
+
+#: includes/mpl.maps.php:737
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: includes/mpl.maps.php:770 includes/mpl.maps.php:1383
+#: includes/mpl.maps.php:2620 includes/mpl.maps.php:2772
+msgid "Button Text"
+msgstr ""
+
+#: includes/mpl.maps.php:778
+msgid "Button Position"
+msgstr ""
+
+#: includes/mpl.maps.php:783
+msgid "Hidden"
+msgstr ""
+
+#: includes/mpl.maps.php:793 includes/mpl.maps.php:2628
+#: includes/mpl.maps.php:2780
+msgid "Button Link"
+msgstr ""
+
+#: includes/mpl.maps.php:803 includes/mpl.maps.php:1249
+#: includes/mpl.maps.php:1401 includes/mpl.maps.php:1558
+#: includes/mpl.maps.php:1815 includes/mpl.maps.php:2008
+#: includes/mpl.maps.php:2204 includes/mpl.maps.php:3666
+#: includes/mpl.maps.php:4146 includes/mpl.maps.php:4331
+#: includes/mpl.maps.php:4488
+msgid "CSS"
+msgstr ""
+
+#: includes/mpl.maps.php:864 includes/mpl.maps.php:1126
+#: includes/mpl.maps.php:1305 includes/mpl.maps.php:1462
+#: includes/mpl.maps.php:1624 includes/mpl.maps.php:1871
+#: includes/mpl.maps.php:2069 includes/mpl.maps.php:2263
+#: includes/mpl.maps.php:2525 includes/mpl.maps.php:2699
+#: includes/mpl.maps.php:2852 includes/mpl.maps.php:3074
+#: includes/mpl.maps.php:3289 includes/mpl.maps.php:3504
+#: includes/mpl.maps.php:3727 includes/mpl.maps.php:4207
+#: includes/mpl.maps.php:4392 includes/mpl.maps.php:4543
+msgid "Enable Section Fullheight"
+msgstr ""
+
+#: includes/mpl.maps.php:874 includes/mpl.maps.php:2273
+msgid "Post Carousel"
+msgstr ""
+
+#: includes/mpl.maps.php:897 includes/mpl.maps.php:2295
+msgid "Content Type"
+msgstr ""
+
+#: includes/mpl.maps.php:899 includes/mpl.maps.php:2297
+msgid "Choose supported content type such as post, custom post type, etc."
+msgstr ""
+
+#: includes/mpl.maps.php:903 includes/mpl.maps.php:2301
+#: includes/mpl.maps.php:4472
+msgid "Order by"
+msgstr ""
+
+#: includes/mpl.maps.php:908 includes/mpl.maps.php:927
+#: includes/mpl.maps.php:2306 includes/mpl.maps.php:2325
+#: includes/mpl.maps.php:2912 includes/mpl.maps.php:3195
+#: includes/mpl.maps.php:3410 includes/mpl.maps.php:4418
+#: includes/mpl.maps.php:4429
+msgid "Default"
+msgstr ""
+
+#: includes/mpl.maps.php:909 includes/mpl.maps.php:2307
+msgid "Post ID"
+msgstr ""
+
+#: includes/mpl.maps.php:910 includes/mpl.maps.php:2308
+#: includes/mpl.maps.php:4421
+msgid "Author"
+msgstr ""
+
+#: includes/mpl.maps.php:912 includes/mpl.maps.php:2310
+msgid "Post name (post slug)"
+msgstr ""
+
+#: includes/mpl.maps.php:913 includes/mpl.maps.php:2311
+msgid "Post type (available since Version 4.0)"
+msgstr ""
+
+#: includes/mpl.maps.php:914 includes/mpl.maps.php:2312
+#: includes/mpl.maps.php:4419
+msgid "Date"
+msgstr ""
+
+#: includes/mpl.maps.php:915 includes/mpl.maps.php:2313
+msgid "Last modified date"
+msgstr ""
+
+#: includes/mpl.maps.php:916 includes/mpl.maps.php:2314
+msgid "Random order"
+msgstr ""
+
+#: includes/mpl.maps.php:917 includes/mpl.maps.php:2315
+msgid "Number of comments"
+msgstr ""
+
+#: includes/mpl.maps.php:922 includes/mpl.maps.php:2320
+msgid "Order post"
+msgstr ""
+
+#: includes/mpl.maps.php:928 includes/mpl.maps.php:2326
+msgid "ASC"
+msgstr ""
+
+#: includes/mpl.maps.php:929 includes/mpl.maps.php:2327
+msgid "DESC"
+msgstr ""
+
+#: includes/mpl.maps.php:934 includes/mpl.maps.php:2332
+msgid "Number of posts displayed"
+msgstr ""
+
+#: includes/mpl.maps.php:936 includes/mpl.maps.php:2334
+msgid "The number of posts you want to show."
+msgstr ""
+
+#: includes/mpl.maps.php:946 includes/mpl.maps.php:2344
+msgid "Show thumbnail"
+msgstr ""
+
+#: includes/mpl.maps.php:948 includes/mpl.maps.php:2346
+msgid "Show the post thumbnail."
+msgstr ""
+
+#: includes/mpl.maps.php:955 includes/mpl.maps.php:2353
+#: includes/mpl.param.types.php:1626
+msgid "Speed"
+msgstr ""
+
+#: includes/mpl.maps.php:957 includes/mpl.maps.php:2355
+msgid "Set the speed at which autoplaying sliders will transition in second."
+msgstr ""
+
+#: includes/mpl.maps.php:968 includes/mpl.maps.php:2366
+msgid "Navigation"
+msgstr ""
+
+#: includes/mpl.maps.php:970 includes/mpl.maps.php:2368
+msgid "Display the \"Next\" and \"Prev\" buttons."
+msgstr ""
+
+#: includes/mpl.maps.php:974 includes/mpl.maps.php:2372
+msgid "Navigation Style"
+msgstr ""
+
+#: includes/mpl.maps.php:976 includes/mpl.maps.php:2374
+msgid "Select how navigation buttons display on slide."
+msgstr ""
+
+#: includes/mpl.maps.php:978 includes/mpl.maps.php:2376
+msgid "Buttons"
+msgstr ""
+
+#: includes/mpl.maps.php:979 includes/mpl.maps.php:2377
+msgid "Arrow"
+msgstr ""
+
+#: includes/mpl.maps.php:980 includes/mpl.maps.php:2378
+msgid "Rounded Arrow"
+msgstr ""
+
+#: includes/mpl.maps.php:989 includes/mpl.maps.php:2387
+msgid "Pagination"
+msgstr ""
+
+#: includes/mpl.maps.php:991 includes/mpl.maps.php:2389
+msgid "Show the pagination."
+msgstr ""
+
+#: includes/mpl.maps.php:996 includes/mpl.maps.php:2394
+msgid "Auto height"
+msgstr ""
+
+#: includes/mpl.maps.php:998 includes/mpl.maps.php:2396
+msgid ""
+"Add height to owl-wrapper-outer so you can use diffrent heights on slides. "
+"Use it only for one item per page setting."
+msgstr ""
+
+#: includes/mpl.maps.php:1002 includes/mpl.maps.php:2400
+msgid "Auto Play"
+msgstr ""
+
+#: includes/mpl.maps.php:1004 includes/mpl.maps.php:2402
+msgid "The carousel automatically plays when site loaded."
+msgstr ""
+
+#: includes/mpl.maps.php:1009 includes/mpl.maps.php:2407
+msgid "Image size"
+msgstr ""
+
+#: includes/mpl.maps.php:1011 includes/mpl.maps.php:2409
+msgid "Set the image size : thumbnail, medium, large or full."
+msgstr ""
+
+#: includes/mpl.maps.php:1020 includes/mpl.maps.php:2418
+msgid "Show date"
+msgstr ""
+
+#: includes/mpl.maps.php:1022 includes/mpl.maps.php:2420
+msgid "Show the post date."
+msgstr ""
+
+#: includes/mpl.maps.php:1028 includes/mpl.maps.php:2426
+msgid "Items per slide"
+msgstr ""
+
+#: includes/mpl.maps.php:1030 includes/mpl.maps.php:2428
+msgid "The number of items displayed per slide (not apply for auto-height)."
+msgstr ""
+
+#: includes/mpl.maps.php:1039 includes/mpl.maps.php:2437
+msgid "Wrapper class name"
+msgstr ""
+
+#: includes/mpl.maps.php:1041 includes/mpl.maps.php:2439
+msgid "Custom class for wrapper of the shortcode widget."
+msgstr ""
+
+#: includes/mpl.maps.php:1137
+msgid "Clients"
+msgstr ""
+
+#: includes/mpl.maps.php:1160 includes/mpl.maps.php:1495
+#: includes/mpl.maps.php:1744 includes/mpl.maps.php:1928
+#: includes/mpl.maps.php:2900 includes/mpl.maps.php:3110
+#: includes/mpl.maps.php:3325 includes/mpl.maps.php:3576
+#: includes/mpl.maps.php:3986 includes/mpl.maps.php:4240
+#: includes/mpl.maps.php:4465 includes/mpl.templates.php:1063
+#: includes/mpl.templates.php:1066 includes/mpl.templates.php:1071
+#: includes/mpl.templates.php:1074 includes/mpl.templates.php:1077
+#: includes/mpl.templates.php:1152
+msgid "Columns"
+msgstr ""
+
+#: includes/mpl.maps.php:1163 includes/mpl.maps.php:1498
+#: includes/mpl.maps.php:1747 includes/mpl.maps.php:1931
+#: includes/mpl.maps.php:3579 includes/mpl.maps.php:3989
+#: includes/mpl.maps.php:4243
+msgid "Set columns for skills section"
+msgstr ""
+
+#: includes/mpl.maps.php:1175 includes/mpl.maps.php:1510
+#: includes/mpl.maps.php:1759 includes/mpl.maps.php:1943
+#: includes/mpl.maps.php:3591 includes/mpl.maps.php:4001
+#: includes/mpl.maps.php:4255
+msgid "Enable Carousel Style"
+msgstr ""
+
+#: includes/mpl.maps.php:1182
+msgid "Clients List"
+msgstr ""
+
+#: includes/mpl.maps.php:1218
+msgid "Client Image"
+msgstr ""
+
+#: includes/mpl.maps.php:1225
+msgid "Link"
+msgstr ""
+
+#: includes/mpl.maps.php:1232 includes/mpl.maps.php:2614
+#: includes/mpl.maps.php:2766 includes/mpl.maps.php:2999
+#: includes/mpl.maps.php:3214 includes/mpl.maps.php:3429
+#: includes/mpl.maps.php:3646 includes/mpl.maps.php:4087
+#: includes/mpl.maps.php:4320
+msgid "Description"
+msgstr ""
+
+#: includes/mpl.maps.php:1236
+msgid "Self"
+msgstr ""
+
+#: includes/mpl.maps.php:1237
+msgid "Blank"
+msgstr ""
+
+#: includes/mpl.maps.php:1315
+msgid "Contact"
+msgstr ""
+
+#: includes/mpl.maps.php:1338
+msgid "Contact Type"
+msgstr ""
+
+#: includes/mpl.maps.php:1350
+msgid "Contact Info Title"
+msgstr ""
+
+#: includes/mpl.maps.php:1358 includes/mpl.maps.php:2117
+msgid "Address"
+msgstr ""
+
+#: includes/mpl.maps.php:1366 mageewp-page-layout.php:1581
+#: shortcodes/mpl_section_contact.php:79 shortcodes/mpl_section_contact.php:80
+#: shortcodes/mpl_section_contact.php:139
+#: shortcodes/mpl_section_contact.php:140
+#: shortcodes/mpl_section_contact.php:199
+#: shortcodes/mpl_section_contact.php:200
+msgid "Email"
+msgstr ""
+
+#: includes/mpl.maps.php:1374
+msgid "Phone"
+msgstr ""
+
+#: includes/mpl.maps.php:1391
+msgid "Contact Form Receiver"
+msgstr ""
+
+#: includes/mpl.maps.php:1472
+msgid "Counter"
+msgstr ""
+
+#: includes/mpl.maps.php:1516
+msgid "Counter List"
+msgstr ""
+
+#: includes/mpl.maps.php:1542
+msgid "Counter Title"
+msgstr ""
+
+#: includes/mpl.maps.php:1548
+msgid "Counter Number"
+msgstr ""
+
+#: includes/mpl.maps.php:1633 includes/mpl.param.types.php:447
+msgid "Custom"
+msgstr ""
+
+#: includes/mpl.maps.php:1721
+msgid "Facebook Feed"
+msgstr ""
+
+#: includes/mpl.maps.php:1765
+msgid "Facebook Page ID"
+msgstr ""
+
+#: includes/mpl.maps.php:1768
+msgid "ID of your Facebook Page or Group"
+msgstr ""
+
+#: includes/mpl.maps.php:1772
+msgid "Number of posts to display"
+msgstr ""
+
+#: includes/mpl.maps.php:1783
+msgid "Select date format. For eg February 27, 2017"
+msgstr ""
+
+#: includes/mpl.maps.php:1797
+msgid "Enter my own Access Token "
+msgstr ""
+
+#: includes/mpl.maps.php:1803
+msgid "Facebook Access Token"
+msgstr ""
+
+#: includes/mpl.maps.php:1880
+msgid "Features"
+msgstr ""
+
+#: includes/mpl.maps.php:1891
+msgid "Gallery"
+msgstr ""
+
+#: includes/mpl.maps.php:1914
+msgid "Enable Lightbox"
+msgstr ""
+
+#: includes/mpl.maps.php:1921 includes/mpl.maps.php:2103
+msgid "Enable Fullwidth"
+msgstr ""
+
+#: includes/mpl.maps.php:1949
+msgid "Image List"
+msgstr ""
+
+#: includes/mpl.maps.php:1997 includes/mpl.maps.php:4075
+msgid "Image Link"
+msgstr ""
+
+#: includes/mpl.maps.php:2080
+msgid "Google Map"
+msgstr ""
+
+#: includes/mpl.maps.php:2110
+msgid "Google Map API Key"
+msgstr ""
+
+#: includes/mpl.maps.php:2120
+msgid ""
+"Add address to the location which will show up on map. For multiple "
+"addresses, separate addresses by using the | symbol. <br />ex: Address 1|"
+"Address 2|Address 3"
+msgstr ""
+
+#: includes/mpl.maps.php:2124
+msgid "Map Type"
+msgstr ""
+
+#: includes/mpl.maps.php:2127
+msgid "Select the type of google map to display."
+msgstr ""
+
+#: includes/mpl.maps.php:2129
+msgid "Roadmap"
+msgstr ""
+
+#: includes/mpl.maps.php:2130
+msgid "Satellite"
+msgstr ""
+
+#: includes/mpl.maps.php:2131
+msgid "Hybrid"
+msgstr ""
+
+#: includes/mpl.maps.php:2132
+msgid "Terrain"
+msgstr ""
+
+#: includes/mpl.maps.php:2137
+msgid "Zoom Level"
+msgstr ""
+
+#: includes/mpl.maps.php:2140
+msgid "Higher number will be more zoomed in."
+msgstr ""
+
+#: includes/mpl.maps.php:2148
+msgid "Scrollwheel on Map"
+msgstr ""
+
+#: includes/mpl.maps.php:2151
+msgid "Enable zooming using a mouse's scroll wheel."
+msgstr ""
+
+#: includes/mpl.maps.php:2155
+msgid "Show Scale Control on Map"
+msgstr ""
+
+#: includes/mpl.maps.php:2158
+msgid "Display the map scale."
+msgstr ""
+
+#: includes/mpl.maps.php:2162
+msgid "Address Pin Animation"
+msgstr ""
+
+#: includes/mpl.maps.php:2165
+msgid "Choose to animate the address pins when the map first loads."
+msgstr ""
+
+#: includes/mpl.maps.php:2169
+msgid "Show tooltip by default"
+msgstr ""
+
+#: includes/mpl.maps.php:2172
+msgid "Display or hide the tooltip when the map first loads."
+msgstr ""
+
+#: includes/mpl.maps.php:2176
+msgid "Map Overlay Color"
+msgstr ""
+
+#: includes/mpl.maps.php:2178
+msgid ""
+"Custom styling setting only. Pick an overlaying color for the map. Works "
+"best with \"roadmap\" type."
+msgstr ""
+
+#: includes/mpl.maps.php:2182
+msgid "Info Box Content"
+msgstr ""
+
+#: includes/mpl.maps.php:2184
+msgid ""
+"Custom styling setting only. Type in custom info box content to replace "
+"address string. For multiple addresses, separate info box contents by using "
+"the | symbol. ex: InfoBox 1|InfoBox 2|InfoBox 3"
+msgstr ""
+
+#: includes/mpl.maps.php:2188
+msgid "Info Box Text Color"
+msgstr ""
+
+#: includes/mpl.maps.php:2190
+msgid "Custom styling setting only. Pick a color for the info box text."
+msgstr ""
+
+#: includes/mpl.maps.php:2194
+msgid "Info Box Background Color"
+msgstr ""
+
+#: includes/mpl.maps.php:2196
+msgid "Custom styling setting only. Pick a color for the info box background."
+msgstr ""
+
+#: includes/mpl.maps.php:2536
+msgid "Post Carousel 2"
+msgstr ""
+
+#: includes/mpl.maps.php:2547
+msgid "Pricing"
+msgstr ""
+
+#: includes/mpl.maps.php:2559
+msgid "Promo"
+msgstr ""
+
+#: includes/mpl.maps.php:2590 includes/mpl.maps.php:2740
+msgid "Image Position"
+msgstr ""
+
+#: includes/mpl.maps.php:2601 includes/mpl.maps.php:2753
+msgid "Image Align"
+msgstr ""
+
+#: includes/mpl.maps.php:2630 includes/mpl.maps.php:2783
+msgid "Insert link for button."
+msgstr ""
+
+#: includes/mpl.maps.php:2710
+msgid "Promo 2"
+msgstr ""
+
+#: includes/mpl.maps.php:2863
+msgid "Service"
+msgstr ""
+
+#: includes/mpl.maps.php:2886
+msgid "Service Type"
+msgstr ""
+
+#: includes/mpl.maps.php:2908
+msgid "Icon shape for items"
+msgstr ""
+
+#: includes/mpl.maps.php:2913 includes/mpl.maps.php:3196
+#: includes/mpl.maps.php:3411
+msgid "Square"
+msgstr ""
+
+#: includes/mpl.maps.php:2914 includes/mpl.maps.php:3197
+#: includes/mpl.maps.php:3412
+msgid "Circle"
+msgstr ""
+
+#: includes/mpl.maps.php:2919
+msgid "Items"
+msgstr ""
+
+#: includes/mpl.maps.php:2993 includes/mpl.maps.php:3208
+#: includes/mpl.maps.php:3423
+msgid "Title Link"
+msgstr ""
+
+#: includes/mpl.maps.php:2995 includes/mpl.maps.php:3210
+#: includes/mpl.maps.php:3425
+msgid "Insert link for title"
+msgstr ""
+
+#: includes/mpl.maps.php:3085
+msgid "Service 2"
+msgstr ""
+
+#: includes/mpl.maps.php:3118 includes/mpl.maps.php:3333
+msgid "Services"
+msgstr ""
+
+#: includes/mpl.maps.php:3192 includes/mpl.maps.php:3407
+msgid "Icon Shape"
+msgstr ""
+
+#: includes/mpl.maps.php:3300
+msgid "Service 3"
+msgstr ""
+
+#: includes/mpl.maps.php:3515
+msgid "Service 4"
+msgstr ""
+
+#: includes/mpl.maps.php:3528
+msgid "Service 5"
+msgstr ""
+
+#: includes/mpl.maps.php:3541
+msgid "Showcase"
+msgstr ""
+
+#: includes/mpl.maps.php:3553
+msgid "Skills"
+msgstr ""
+
+#: includes/mpl.maps.php:3597
+msgid "Skill List"
+msgstr ""
+
+#: includes/mpl.maps.php:3639
+msgid "Percent"
+msgstr ""
+
+#: includes/mpl.maps.php:3653
+msgid "BarColor"
+msgstr ""
+
+#: includes/mpl.maps.php:3737
+msgid "Skills 2"
+msgstr ""
+
+#: includes/mpl.maps.php:3963
+msgid "Team"
+msgstr ""
+
+#: includes/mpl.maps.php:4007
+msgid "Team List"
+msgstr ""
+
+#: includes/mpl.maps.php:4063 mageewp-page-layout.php:1578
+#: shortcodes/mpl_section_contact.php:75 shortcodes/mpl_section_contact.php:76
+#: shortcodes/mpl_section_contact.php:133
+#: shortcodes/mpl_section_contact.php:134
+#: shortcodes/mpl_section_contact.php:195
+#: shortcodes/mpl_section_contact.php:196
+msgid "Name"
+msgstr ""
+
+#: includes/mpl.maps.php:4093
+msgid "Social 1"
+msgstr ""
+
+#: includes/mpl.maps.php:4099
+msgid "Social 1 Link"
+msgstr ""
+
+#: includes/mpl.maps.php:4105
+msgid "Social 2"
+msgstr ""
+
+#: includes/mpl.maps.php:4111
+msgid "Social 2 Link"
+msgstr ""
+
+#: includes/mpl.maps.php:4117
+msgid "Social 3"
+msgstr ""
+
+#: includes/mpl.maps.php:4123
+msgid "Social 3 Link"
+msgstr ""
+
+#: includes/mpl.maps.php:4129
+msgid "Social 4"
+msgstr ""
+
+#: includes/mpl.maps.php:4135
+msgid "Social 4 Link"
+msgstr ""
+
+#: includes/mpl.maps.php:4217
+msgid "Testimonials"
+msgstr ""
+
+#: includes/mpl.maps.php:4262
+msgid "Testimonial Type"
+msgstr ""
+
+#: includes/mpl.maps.php:4274
+msgid "Testimonial List"
+msgstr ""
+
+#: includes/mpl.maps.php:4302
+msgid "Person Name"
+msgstr ""
+
+#: includes/mpl.maps.php:4314
+msgid "Person Title"
+msgstr ""
+
+#: includes/mpl.maps.php:4420
+msgid "ID"
+msgstr ""
+
+#: includes/mpl.maps.php:4423
+msgid "Modified"
+msgstr ""
+
+#: includes/mpl.maps.php:4424
+msgid "Random"
+msgstr ""
+
+#: includes/mpl.maps.php:4425
+msgid "Comment count"
+msgstr ""
+
+#: includes/mpl.maps.php:4426
+msgid "Menu order"
+msgstr ""
+
+#: includes/mpl.maps.php:4430
+msgid "Descending"
+msgstr ""
+
+#: includes/mpl.maps.php:4431
+msgid "Ascending"
+msgstr ""
+
+#: includes/mpl.maps.php:4436
+msgid "Recent Products"
+msgstr ""
+
+#: includes/mpl.maps.php:4438
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/mpl.maps.php:4439
+msgid "Lists recent products"
+msgstr ""
+
+#: includes/mpl.maps.php:4458
+msgid "Per page"
+msgstr ""
+
+#: includes/mpl.maps.php:4461
+msgid ""
+"The \"per_page\" shortcode determines how many products to show on the page"
+msgstr ""
+
+#: includes/mpl.maps.php:4468
+msgid ""
+"The columns attribute controls how many columns wide the products should be "
+"before wrapping."
+msgstr ""
+
+#: includes/mpl.maps.php:4475
+#, php-format
+msgid "Select how to sort retrieved products. More at %s."
+msgstr ""
+
+#: includes/mpl.maps.php:4479
+msgid "Sort order"
+msgstr ""
+
+#: includes/mpl.maps.php:4482
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: includes/mpl.nocache_templates.php:19
+msgid "Restore deleted items"
+msgstr ""
+
+#: includes/mpl.param.types.php:169 includes/mpl.param.types.php:241
+msgid "Insert Media"
+msgstr ""
+
+#: includes/mpl.param.types.php:172 includes/mpl.param.types.php:244
+msgid "Press shift+enter to break new line"
+msgstr ""
+
+#: includes/mpl.param.types.php:174 includes/mpl.param.types.php:246
+msgid "Visual"
+msgstr ""
+
+#: includes/mpl.param.types.php:175 includes/mpl.param.types.php:247
+msgid "Text"
+msgstr ""
+
+#: includes/mpl.param.types.php:193
+msgid "Editor Error: This field type requires shortcode type is_container."
+msgstr ""
+
+#: includes/mpl.param.types.php:217
+msgid ""
+"Editor Error: This field type requires name is \"content\", you set the name "
+"is "
+msgstr ""
+
+#: includes/mpl.param.types.php:252
+msgid ""
+"To optimize performance the editor is not activated automatically, Click to "
+"active."
+msgstr ""
+
+#: includes/mpl.param.types.php:335 includes/mpl.param.types.php:384
+msgid "Remove Selection"
+msgstr ""
+
+#: includes/mpl.param.types.php:496
+msgid "Delete this mdia"
+msgstr ""
+
+#: includes/mpl.param.types.php:499
+msgid "Browse Media"
+msgstr ""
+
+#: includes/mpl.param.types.php:548
+msgid "Browse Image"
+msgstr ""
+
+#: includes/mpl.param.types.php:571
+msgid "Select Image"
+msgstr ""
+
+#: includes/mpl.param.types.php:589
+msgid "Drag image to sort"
+msgstr ""
+
+#: includes/mpl.param.types.php:595
+msgid "Browse Images"
+msgstr ""
+
+#: includes/mpl.param.types.php:657
+msgid "HTML Code"
+msgstr ""
+
+#: includes/mpl.param.types.php:719
+msgid "There was an error with content structure."
+msgstr ""
+
+#: includes/mpl.param.types.php:784
+msgid "Click & hold the input, then move up or move down to change value"
+msgstr ""
+
+#: includes/mpl.param.types.php:916
+msgid "Style"
+msgstr ""
+
+#: includes/mpl.param.types.php:932 includes/mpl.param.types.php:1267
+msgid "Select color"
+msgstr ""
+
+#: includes/mpl.param.types.php:935
+msgid "Advanced setting borders"
+msgstr ""
+
+#: includes/mpl.param.types.php:971
+msgid "Add new Item"
+msgstr ""
+
+#: includes/mpl.param.types.php:1082
+msgid "Add your link"
+msgstr ""
+
+#: includes/mpl.param.types.php:1170
+msgid "Select Content Type"
+msgstr ""
+
+#: includes/mpl.param.types.php:1194
+msgid "Remove selection"
+msgstr ""
+
+#: includes/mpl.param.types.php:1208
+msgid "Enter your word"
+msgstr ""
+
+#: includes/mpl.param.types.php:1211
+msgid "Show up 120 relate posts"
+msgstr ""
+
+#: includes/mpl.param.types.php:1246
+msgid "Background Color"
+msgstr ""
+
+#: includes/mpl.param.types.php:1247
+msgid "BG Image"
+msgstr ""
+
+#: includes/mpl.param.types.php:1248
+msgid "BG repeat"
+msgstr ""
+
+#: includes/mpl.param.types.php:1249
+msgid "BG position"
+msgstr ""
+
+#: includes/mpl.param.types.php:1250
+msgid "BG attachment"
+msgstr ""
+
+#: includes/mpl.param.types.php:1251
+msgid "BG size"
+msgstr ""
+
+#: includes/mpl.param.types.php:1252
+msgid "BG Overlay & Gradient"
+msgstr ""
+
+#: includes/mpl.param.types.php:1273
+msgid "Advanced"
+msgstr ""
+
+#: includes/mpl.param.types.php:1283
+msgid "Background image, gradient"
+msgstr ""
+
+#: includes/mpl.param.types.php:1305
+msgid "Select background image"
+msgstr ""
+
+#: includes/mpl.param.types.php:1387
+msgid "Enable Video Background"
+msgstr ""
+
+#: includes/mpl.param.types.php:1388
+msgid "Video Type"
+msgstr ""
+
+#: includes/mpl.param.types.php:1389
+msgid "Youtube Url"
+msgstr ""
+
+#: includes/mpl.param.types.php:1390
+msgid "Vimeo Url"
+msgstr ""
+
+#: includes/mpl.param.types.php:1391
+msgid "Start Time"
+msgstr ""
+
+#: includes/mpl.param.types.php:1392
+msgid "Stop Time"
+msgstr ""
+
+#: includes/mpl.param.types.php:1393
+msgid "Mute"
+msgstr ""
+
+#: includes/mpl.param.types.php:1394
+msgid "Loop"
+msgstr ""
+
+#: includes/mpl.param.types.php:1395
+msgid "Autoplay"
+msgstr ""
+
+#: includes/mpl.param.types.php:1417
+msgid "Choose to show video background"
+msgstr ""
+
+#: includes/mpl.param.types.php:1439
+msgid "Insert the eleven-letter id or url here."
+msgstr ""
+
+#: includes/mpl.param.types.php:1443
+msgid "Insert the vimeo video URL here, e.g. https://vimeo.com/193338881"
+msgstr ""
+
+#: includes/mpl.param.types.php:1447
+msgid "Choose time to start to play, in seconds."
+msgstr ""
+
+#: includes/mpl.param.types.php:1451
+msgid "Choose time to stop to play, in seconds."
+msgstr ""
+
+#: includes/mpl.param.types.php:1478
+msgid "Choose to set the video mute"
+msgstr ""
+
+#: includes/mpl.param.types.php:1482
+msgid "Choose to set the video loop"
+msgstr ""
+
+#: includes/mpl.param.types.php:1486
+msgid "Choose to set the video autoplay1"
+msgstr ""
+
+#: includes/mpl.param.types.php:1521
+msgid "Select font"
+msgstr ""
+
+#: includes/mpl.param.types.php:1534
+msgid "Animate preview"
+msgstr ""
+
+#: includes/mpl.param.types.php:1535
+msgid "It happens when scroll over"
+msgstr ""
+
+#: includes/mpl.param.types.php:1538
+msgid "Effect"
+msgstr ""
+
+#: includes/mpl.param.types.php:1540
+msgid "--Select an animate--"
+msgstr ""
+
+#: includes/mpl.param.types.php:1622
+msgid "Delay"
+msgstr ""
+
+#: includes/mpl.param.types.php:1623
+msgid "Example: 200"
+msgstr ""
+
+#: includes/mpl.templates.php:24
+msgid "Classic Mode"
+msgstr ""
+
+#: includes/mpl.templates.php:28
+msgid "Frontend Editor"
+msgstr ""
+
+#: includes/mpl.templates.php:33
+msgid "Expand / Collapse Builder"
+msgstr ""
+
+#: includes/mpl.templates.php:37 includes/mpl.templates.php:131
+msgid "Page Settings"
+msgstr ""
+
+#: includes/mpl.templates.php:45 includes/mpl.templates.php:46
+msgid "Import Templates"
+msgstr ""
+
+#: includes/mpl.templates.php:51
+msgid "Save all content to section"
+msgstr ""
+
+#: includes/mpl.templates.php:59
+msgid "You have a blank page"
+msgstr ""
+
+#: includes/mpl.templates.php:60
+msgid "Add new section layout"
+msgstr ""
+
+#: includes/mpl.templates.php:66
+msgid "Add new section"
+msgstr ""
+
+#: includes/mpl.templates.php:76
+msgid "Tips"
+msgstr ""
+
+#: includes/mpl.templates.php:77
+msgid "Drag and drop to arrange items, click to select an item."
+msgstr ""
+
+#: includes/mpl.templates.php:81
+msgid "Delete selected"
+msgstr ""
+
+#: includes/mpl.templates.php:84
+msgid "Select all"
+msgstr ""
+
+#: includes/mpl.templates.php:87
+msgid "Unselect all"
+msgstr ""
+
+#: includes/mpl.templates.php:93
+msgid "The ClipBoard is empty, Please copy elements to clipboard"
+msgstr ""
+
+#: includes/mpl.templates.php:105
+msgid "Click to select, drag to move"
+msgstr ""
+
+#: includes/mpl.templates.php:112
+msgid "Paste now"
+msgstr ""
+
+#: includes/mpl.templates.php:118
+msgid "No items found, please copy elements first."
+msgstr ""
+
+#: includes/mpl.templates.php:133 includes/mpl.templates.php:162
+msgid "Save"
+msgstr ""
+
+#: includes/mpl.templates.php:138
+msgid "Body Class"
+msgstr ""
+
+#: includes/mpl.templates.php:139
+msgid "The class will be added to body tag on the front-end"
+msgstr ""
+
+#: includes/mpl.templates.php:150
+msgid "Css Code"
+msgstr ""
+
+#: includes/mpl.templates.php:155
+msgid "Notice: CSS must contain selectors"
+msgstr ""
+
+#: includes/mpl.templates.php:233
+msgid "Enable Optimized"
+msgstr ""
+
+#: includes/mpl.templates.php:238
+msgid "Clear Cache"
+msgstr ""
+
+#: includes/mpl.templates.php:242
+msgid "Things that will be optimized on your website:"
+msgstr ""
+
+#: includes/mpl.templates.php:245
+msgid "Pre-render all resources to static files"
+msgstr ""
+
+#: includes/mpl.templates.php:246
+msgid "Combined js internal & external resources"
+msgstr ""
+
+#: includes/mpl.templates.php:247
+msgid "Combined css internal & external resources"
+msgstr ""
+
+#: includes/mpl.templates.php:248
+msgid "Minify HTML, JS, CSS"
+msgstr ""
+
+#: includes/mpl.templates.php:249
+msgid "Prevent javascript blocking"
+msgstr ""
+
+#: includes/mpl.templates.php:250
+msgid "Compression and gzip for page speed"
+msgstr ""
+
+#: includes/mpl.templates.php:251
+msgid "Leverage browser caching"
+msgstr ""
+
+#: includes/mpl.templates.php:261
+msgid "Active This Page"
+msgstr ""
+
+#: includes/mpl.templates.php:263
+msgid "Force to active or deactive from global settings"
+msgstr ""
+
+#: includes/mpl.templates.php:270
+msgid "Use global settings"
+msgstr ""
+
+#: includes/mpl.templates.php:273
+msgid "Force Active"
+msgstr ""
+
+#: includes/mpl.templates.php:276
+msgid "Force Deactive"
+msgstr ""
+
+#: includes/mpl.templates.php:284
+msgid ""
+"Notice: The optimization mode  is activated only for not logged in and cart "
+"empty (woocommerce)"
+msgstr ""
+
+#: includes/mpl.templates.php:288
+msgid "Active All Page (Global Settings)"
+msgstr ""
+
+#: includes/mpl.templates.php:290
+msgid ""
+"Active optimization for all pages built with MPL. You can active or deactive "
+"for each specific page"
+msgstr ""
+
+#: includes/mpl.templates.php:305
+msgid "Advanced Optimization"
+msgstr ""
+
+#: includes/mpl.templates.php:307
+msgid ""
+"Enable advanced optimization such as gzip, browser caching (required "
+"changes .htaccess)"
+msgstr ""
+
+#: includes/mpl.templates.php:330 includes/mpl.templates.php:350
+msgid "items total"
+msgstr ""
+
+#: includes/mpl.templates.php:334 includes/mpl.templates.php:430
+msgid "Previous"
+msgstr ""
+
+#: includes/mpl.templates.php:338 includes/mpl.templates.php:434
+msgid "Next"
+msgstr ""
+
+#: includes/mpl.templates.php:342 includes/mpl.templates.php:438
+msgid "Page"
+msgstr ""
+
+#: includes/mpl.templates.php:376
+msgid ""
+"Do not support saving to prebuilt template, please chose another content "
+"types."
+msgstr ""
+
+#: includes/mpl.templates.php:379
+msgid "Use this template"
+msgstr ""
+
+#: includes/mpl.templates.php:385
+msgid "Include"
+msgstr ""
+
+#: includes/mpl.templates.php:388
+msgid "Clone"
+msgstr ""
+
+#: includes/mpl.templates.php:391
+msgid "Push In"
+msgstr ""
+
+#: includes/mpl.templates.php:394
+msgid "Overwrite"
+msgstr ""
+
+#: includes/mpl.templates.php:409
+msgid "Edit section"
+msgstr ""
+
+#: includes/mpl.templates.php:412
+msgid "Share this section to MPL Hub"
+msgstr ""
+
+#: includes/mpl.templates.php:415
+msgid "Delete section"
+msgstr ""
+
+#: includes/mpl.templates.php:452
+msgid "Section"
+msgstr ""
+
+#: includes/mpl.templates.php:456
+msgid "Source"
+msgstr ""
+
+#: includes/mpl.templates.php:460
+msgid "Your Name"
+msgstr ""
+
+#: includes/mpl.templates.php:464
+msgid "Your Email"
+msgstr ""
+
+#: includes/mpl.templates.php:469
+msgid "Submit to MPL Hub"
+msgstr ""
+
+#: includes/mpl.templates.php:477
+msgid "Share your design to MPL Hub"
+msgstr ""
+
+#: includes/mpl.templates.php:478
+msgid "What is MPL Hub?"
+msgstr ""
+
+#: includes/mpl.templates.php:480
+msgid ""
+"MPL Hub is a free resource, where you can install any preset design template "
+"with one click. You can use anyone's design sharing and you can also share "
+"your design so that anyone can use them."
+msgstr ""
+
+#: includes/mpl.templates.php:483
+msgid "How to be accepted?"
+msgstr ""
+
+#: includes/mpl.templates.php:485
+msgid ""
+"After submitting, we will review before publishing. We only accept which "
+"design has been built on our CSS system and does not require external CSS. "
+"Then MPL Users can install them everywhere."
+msgstr ""
+
+#: includes/mpl.templates.php:546
+msgid "All"
+msgstr ""
+
+#: includes/mpl.templates.php:571
+msgid "More"
+msgstr ""
+
+#: includes/mpl.templates.php:651 includes/mpl.templates.php:670
+#: includes/mpl.templates.php:1236
+msgid "Delete this section"
+msgstr ""
+
+#: includes/mpl.templates.php:658 includes/mpl.templates.php:677
+msgid "Drag and drop to arrange this section"
+msgstr ""
+
+#: includes/mpl.templates.php:662 includes/mpl.templates.php:870
+#: includes/mpl.templates.php:1240
+msgid "Double this section"
+msgstr ""
+
+#: includes/mpl.templates.php:690 includes/mpl.templates.php:753
+msgid "Expand / Collapse this row"
+msgstr ""
+
+#: includes/mpl.templates.php:696 includes/mpl.templates.php:709
+msgid "Publish / Unpublish this section"
+msgstr ""
+
+#: includes/mpl.templates.php:701
+msgid "Expand / Collapse this section"
+msgstr ""
+
+#: includes/mpl.templates.php:720
+msgid "Go to edit this section"
+msgstr ""
+
+#: includes/mpl.templates.php:723
+msgid "Select another section"
+msgstr ""
+
+#: includes/mpl.templates.php:735
+msgid "Delete this row"
+msgstr ""
+
+#: includes/mpl.templates.php:739
+msgid "Open row settings"
+msgstr ""
+
+#: includes/mpl.templates.php:743
+msgid "Double this row"
+msgstr ""
+
+#: includes/mpl.templates.php:747
+msgid "Drag and drop to arrange this row"
+msgstr ""
+
+#: includes/mpl.templates.php:757
+msgid "Set number of columns for this row"
+msgstr ""
+
+#: includes/mpl.templates.php:761
+msgid "Copy this row"
+msgstr ""
+
+#: includes/mpl.templates.php:777 includes/mpl.templates.php:918
+msgid "Add Element"
+msgstr ""
+
+#: includes/mpl.templates.php:821
+msgid "Drag and drop to arrange this element"
+msgstr ""
+
+#: includes/mpl.templates.php:823
+msgid "More Actions"
+msgstr ""
+
+#: includes/mpl.templates.php:836
+msgid "Cut"
+msgstr ""
+
+#: includes/mpl.templates.php:874
+msgid "Open settings"
+msgstr ""
+
+#: includes/mpl.templates.php:876 includes/mpl.templates.php:1134
+msgid "Remove"
+msgstr ""
+
+#: includes/mpl.templates.php:878
+msgid "Remove this section"
+msgstr ""
+
+#: includes/mpl.templates.php:884
+msgid "Add Section"
+msgstr ""
+
+#: includes/mpl.templates.php:905
+msgid "Drag to move this element"
+msgstr ""
+
+#: includes/mpl.templates.php:909
+msgid "Edit this section"
+msgstr ""
+
+#: includes/mpl.templates.php:945
+msgid "Collapse popup"
+msgstr ""
+
+#: includes/mpl.templates.php:948
+msgid "Help"
+msgstr ""
+
+#: includes/mpl.templates.php:952
+msgid "Cancel & close popup"
+msgstr ""
+
+#: includes/mpl.templates.php:953
+msgid "Save changes (ctrl+s)"
+msgstr ""
+
+#: includes/mpl.templates.php:1007
+msgid "The name of this field must be set to \"content\""
+msgstr ""
+
+#: includes/mpl.templates.php:1010
+msgid "The name of this field is not allowed to use as"
+msgstr ""
+
+#: includes/mpl.templates.php:1053
+msgid "Double content"
+msgstr ""
+
+#: includes/mpl.templates.php:1054
+msgid ""
+"Copy content in the last column to the newly-created column. This option is "
+"available when you choose to set the column amount greater than the current "
+"column amount"
+msgstr ""
+
+#: includes/mpl.templates.php:1054
+msgid ""
+"For example: Currently there is 1 column and you are going to set 2 columns"
+msgstr ""
+
+#: includes/mpl.templates.php:1056
+msgid "Keep content"
+msgstr ""
+
+#: includes/mpl.templates.php:1056
+msgid ""
+"Keep content of the removed column and transfer it to the last existing "
+"column"
+msgstr ""
+
+#: includes/mpl.templates.php:1056
+msgid ""
+"This option is available when you choose to set the column amount smaller "
+"than the current column amount"
+msgstr ""
+
+#: includes/mpl.templates.php:1056
+msgid ""
+"For example: Currently there are 2 columns and you are going to set 1 column"
+msgstr ""
+
+#: includes/mpl.templates.php:1060
+msgid "Column"
+msgstr ""
+
+#: includes/mpl.templates.php:1138
+msgid "Edit with Editor"
+msgstr ""
+
+#: includes/mpl.templates.php:1142
+msgid "Settings"
+msgstr ""
+
+#: includes/mpl.templates.php:1150 includes/mpl.templates.php:1211
+msgid "Add Node"
+msgstr ""
+
+#: includes/mpl.templates.php:1232
+msgid "expand / collapse"
+msgstr ""
+
+#: includes/mpl.templates.php:1257
+msgid "Display WordPress sidebar"
+msgstr ""
+
+#: includes/mpl.templates.php:1261
+msgid "WordPress SideBar"
+msgstr ""
+
+#: includes/mpl.tools.php:738
+msgid "Select Contact Form"
+msgstr ""
+
+#: includes/mpl.tools.php:745
+msgid "No contact forms found"
+msgstr ""
+
+#: includes/mpl.widgets.php:17
+msgid "Display content is built by Page Builder"
+msgstr ""
+
+#: includes/mpl.widgets.php:97
+msgid "MPL Widget Content"
+msgstr ""
+
+#: includes/mpl.widgets.php:125
+msgid "Use post title"
+msgstr ""
+
+#: includes/mpl.widgets.php:142
+msgid "Content Filters"
+msgstr ""
+
+#: includes/mpl.widgets.php:190
+msgid "Type least 2 characters"
+msgstr ""
+
+#: includes/mpl.widgets.php:210
+msgid "Edit widget"
+msgstr ""
+
+#: includes/mpl.widgets.php:218
+msgid "Widget Class"
+msgstr ""
+
+#: mageewp-page-layout.php:963
+msgid "Do not support field type GROUP in its self"
+msgstr ""
+
+#: mageewp-page-layout.php:1527
+msgid "Please enter a message."
+msgstr ""
+
+#: mageewp-page-layout.php:1539
+msgid "Please enter your subject."
+msgstr ""
+
+#: mageewp-page-layout.php:1547
+msgid "Please enter your email address."
+msgstr ""
+
+#: mageewp-page-layout.php:1550
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: mageewp-page-layout.php:1558
+msgid "Please enter your name."
+msgstr ""
+
+#: mageewp-page-layout.php:1584 shortcodes/mpl_section_contact.php:88
+#: shortcodes/mpl_section_contact.php:152
+#: shortcodes/mpl_section_contact.php:208
+msgid "Message"
+msgstr ""
+
+#: mageewp-page-layout.php:1588
+#, php-format
+msgid "From: %s <%s>"
+msgstr ""
+
+#: mageewp-page-layout.php:1590
+#, php-format
+msgid "Reply-To: %s"
+msgstr ""
+
+#: mageewp-page-layout.php:1597
+msgid "Your message has been successfully sent!"
+msgstr ""
+
+#: mageewp-page-layout.php:1670
+msgid "MPL Error: could not find shortcode template: "
+msgstr ""
+
+#: shortcodes/mpl_section_carousel_post.php:187
+#: shortcodes/mpl_section_post_carousel.php:186
+msgid "No comments yet"
+msgstr ""
+
+#: shortcodes/mpl_section_carousel_post.php:187
+#: shortcodes/mpl_section_post_carousel.php:186
+msgid "1 comment"
+msgstr ""
+
+#: shortcodes/mpl_section_carousel_post.php:187
+#: shortcodes/mpl_section_post_carousel.php:186
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: shortcodes/mpl_section_carousel_post.php:203
+#: shortcodes/mpl_section_post_carousel.php:202
+msgid "Carousel Post: No posts found"
+msgstr ""
+
+#: shortcodes/mpl_section_contact.php:83 shortcodes/mpl_section_contact.php:84
+#: shortcodes/mpl_section_contact.php:87 shortcodes/mpl_section_contact.php:145
+#: shortcodes/mpl_section_contact.php:146
+#: shortcodes/mpl_section_contact.php:151
+#: shortcodes/mpl_section_contact.php:203
+#: shortcodes/mpl_section_contact.php:204
+#: shortcodes/mpl_section_contact.php:207
+msgid "Subject"
+msgstr ""
+
+#: shortcodes/mpl_section_contact.php:92 shortcodes/mpl_section_contact.php:156
+#: shortcodes/mpl_section_contact.php:212
+msgid "Submit"
+msgstr ""

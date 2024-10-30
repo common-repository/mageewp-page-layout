@@ -1,0 +1,392 @@
+
+#mpl-show-my-fonts #mpl-ggf-{
+	/*opacity: 0.35;*/
+}
+#mpl-fonts-manager *{
+	transition: all 250ms;	
+}
+#mpl-fonts-manager{
+	width: 100%;
+	box-sizing: border-box;
+	padding: 20px;
+	background: #f1f1f1;
+}
+#mpl-fonts-manager #mpl-ggf-header{
+	display: inline-block;
+	width: 100%;
+	clear: both;
+}
+#mpl-fonts-manager #mpl-ggf-header h3{
+    font-size: 24px;
+    float: left;	
+}
+#mpl-fonts-manager #mpl-ggf-header h3 small{
+	font-weight: 500;
+	font-size: 15px;
+	color: #aaa;	
+}
+#mpl-fonts-manager #mpl-ggf-header ul{
+    list-style: none;
+    margin: 0 0 10px 0;
+    background: #fff;
+    display: inline-block;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,.09);
+}
+#mpl-fonts-manager #mpl-ggf-header ul li{
+    float: left;
+    margin: 0px;
+    font-size: 13px;
+    padding: 0;
+    cursor: pointer;
+}
+#mpl-fonts-manager #mpl-ggf-header ul li select{
+    background: #fff;
+    border: none;
+    -webkit-appearance: none;
+    text-align: center;
+    padding: 0px 30px;
+    box-shadow: none;
+    color: #333;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: 500;
+    height: 46px;
+    border-radius: 0px;
+    margin: 0px;
+    border-right: 1px solid rgba(0, 0, 0, 0.09);
+}
+#mpl-fonts-manager #mpl-ggf-header ul li select:hover{
+	background: #42BCE2;
+	border-color: transparent;
+	color: #fff;
+}
+#mpl-fonts-manager #mpl-ggf-header ul li select option{
+	text-align: center;	
+}
+#mpl-fonts-manager #mpl-ggf-header ul li.mpl-ggf-load-time{
+	float: right;
+	padding: 14px 20px;
+	cursor: default;
+}
+#mpl-fonts-manager #mpl-ggf-header ul li.mpl-ggf-load-time span{
+    padding: 3px 15px;
+    background: #50c150;
+    color: #fff;
+    border-radius: 12px;
+    margin-left: 5px;
+}
+#mpl-fonts-manager #mpl-ggf-header ul li.mpl-ggf-load-time span.medium{
+	background: #bdc150;	
+}
+#mpl-fonts-manager #mpl-ggf-header ul li.mpl-ggf-load-time span.slow{
+	background: #c15050;	
+}
+#mpl-fonts-manager #mpl-ggf-header ul li.mpl-ggf-added{
+	float: right;
+    background: #42BCE2;
+    color: #fff;
+    margin: 0px;
+    padding: 14px 20px;
+}
+#mpl-fonts-manager #mpl-ggf-header ul li.mpl-ggf-added:hover{
+	color: #fff;
+    background: #2e94b2;
+}
+#mpl-fonts-manager .mpl-ggf-loading{
+	display: inline-block;
+	width: 100%;
+	padding: 50px 0;
+	text-align: center;
+}
+#mpl-ggf-render{
+    display: block;
+    margin-left: -1%;
+    margin-right: -1%;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+#mpl-fonts-manager .mpl-ggf-item{
+	float: left;
+    width: 31.33%;
+    margin: 1%;
+    background: #fff;
+    box-shadow: 0 1px 1px rgba(0,0,0,.09);
+    box-sizing: border-box;
+    padding: 20px;
+    padding-bottom: 15px;
+    position: relative;
+}
+#mpl-fonts-manager .mpl-ggf-item:nth-child(3n+1){
+	clear: both;	
+}
+#mpl-fonts-manager .mpl-ggf-item h3{
+	margin: 0 0 14px 0;
+	font-size: 24px;	
+	line-height: 30px;	
+	font-weight: inherit;
+}
+#mpl-fonts-manager .mpl-ggf-item.unload:after{
+	position: absolute;
+	top: 24px;
+	left: 20px;
+	content: "loading...";
+	color: #aaa;	
+}
+#mpl-fonts-manager .mpl-ggf-item.unload h3{
+	opacity: 0;	
+}
+#mpl-fonts-manager .mpl-ggf-item .variants{
+	position: relative;
+	cursor: pointer;
+}
+#mpl-fonts-manager .mpl-ggf-item .variants:after{
+	font: normal normal normal 14px/1 FontAwesome;
+    content: "\f107";
+    position: absolute;
+    left: 8px;
+    top: 3px;
+    color: #888;
+}
+#mpl-fonts-manager .mpl-ggf-item .cat{
+	color: #aaa;	
+}
+#mpl-fonts-manager .mpl-ggf-item select{
+    background: #e5e5e5;
+    border: none;
+    -webkit-appearance: none;
+    text-align: left;
+    padding: 1px 10px 1px 10px;
+    box-shadow: none;
+    color: #888;
+    font-size: 12px;
+    margin-top: -2px;
+    cursor: pointer;
+    margin-left: 8px;
+    opacity: 0;
+    position: relative;
+    z-index: 1;
+    border-radius: 2px;
+}
+#mpl-fonts-manager .mpl-ggf-item .variants:hover select,
+#mpl-fonts-manager .mpl-ggf-item select:hover{
+	opacity: 1;
+}
+#mpl-fonts-manager .mpl-ggf-item i[data-action]{
+	color: #aaa;
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+	cursor: pointer;
+	font-size: 20px;
+	opacity: 0;
+}
+#mpl-fonts-manager .mpl-ggf-item i[data-action="added"]{
+	display: none;	
+}
+#mpl-fonts-manager .mpl-ggf-item.added i[data-action="add"]{
+	display: none;	
+}
+#mpl-fonts-manager .mpl-ggf-item.added i[data-action="added"]{
+	display: block;
+	opacity: 1;
+	color: #42BCE2;	
+}
+#mpl-fonts-manager .mpl-ggf-item i[data-action]:hover{
+	color: #42BCE2;	
+}
+#mpl-fonts-manager .mpl-ggf-item i[data-action="delete"]{
+	bottom: auto;
+	top: 10px;
+	right: 15px;
+	color: #c15050;	
+}
+#mpl-fonts-manager .mpl-ggf-item i[data-action="delete"]:hover{
+	color: #9c3737;	
+}
+#mpl-fonts-manager .mpl-ggf-item i[data-action="settings"]{
+	bottom: auto;
+	top: 45px;
+	right: 15px;
+	background: #fafafa;
+    padding: 0 0 0 20px;
+}
+#mpl-fonts-manager .mpl-ggf-item button{
+    background: #42BCE2;
+    color: #fff;
+    border: none;
+    padding: 6px 16px;
+    cursor: pointer;
+    border-radius: 2px;
+    clear: both;
+    display: block;
+}
+#mpl-fonts-manager .mpl-ggf-item button:focus{
+	box-shadow: none;
+	outline: none;	
+}
+#mpl-fonts-manager .mpl-ggf-item button:hover{
+	background: #2b94b4;
+}
+#mpl-fonts-manager .mpl-ggf-item:hover i[data-action]{
+	opacity: 1;
+}
+#mpl-fonts-manager-resource,
+#mpl-fonts-manager-api{
+	display: none;
+}
+#mpl-ggf-body .mpl-ggf-pagination{
+	clear: both;
+	display: block;
+}
+#mpl-ggf-body .mpl-ggf-pagination ul li{
+    display: inline-block;
+    background: #fff;
+    padding: 10px 16px;
+    margin-right: 1px;
+    min-width: 10px;
+    text-align: center;
+    box-shadow: 0 1px 1px rgba(0,0,0,.03);
+    cursor: pointer;
+}
+#mpl-ggf-body .mpl-ggf-pagination ul li.inf{
+	box-shadow: none;
+    background: transparent;
+    color: #aaa;
+    cursor: default;
+}
+#mpl-ggf-body .mpl-ggf-pagination ul li.active,
+#mpl-ggf-body .mpl-ggf-pagination ul li:not(.inf):hover{
+	background: #42BCE2;
+	color: #fff;	
+}
+#mpl-ggf-hright{
+	float: right;
+	margin-top: 1.2em;
+}
+#mpl-ggf-hright input[type="search"]{
+    box-shadow: none;
+    height: 35px;
+    padding: 0 10px;
+    min-width: 250px;
+    color: #555;
+	float: left;
+}
+#mpl-ggf-hright i.sl-magnifier{
+    box-shadow: none;
+    height: 36px;
+    padding: 0 15px;
+    color: #555;
+    background: transparent;
+    border: none;
+    margin-left: -53px;
+    float: right;
+    line-height: 36px;
+}
+#mpl-ggf-hright:hover i.sl-magnifier{
+	display: none;
+}
+.mpl-ggf-notfount{
+	padding: 120px 0 50px;
+	text-align: center;
+}
+.mpl-ggf-notfount .error-emoji {
+    color: rgba(0,0,0,0.4);
+    font-size: 120px;
+    display: inline-block;
+}
+.mpl-ggf-notfount .error-text {
+    color: rgba(0,0,0,0.4);
+    line-height: 21px;
+    margin-top: 60px;
+    white-space: pre-wrap;
+}
+#mpl-ggf-footer{
+    text-align: center;
+    margin-top: 50px;
+}
+#mpl-ggf-message{
+    background: rgba(0,0,0,0.85);
+    position: fixed;
+    top: 10px;
+    left: 50%;
+    padding: 14px;
+    border-radius: 3px;
+    color: #fff;
+    transform: translateX(-50%);
+    font-size: 14px;
+    box-shadow: 0px 0px 3px 0 rgba(0,0,0,0.35);
+    border: none;
+}
+#mpl-ggf-message.success{
+	background: rgba(80, 193, 80, 0.8);		
+}
+#mpl-ggf-message.error{
+	background: rgba(194, 80, 80, 0.8);		
+}
+#mpl-ggf-my-fonts{
+    display: none;
+    width: 100%;
+    background: #fff;
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+    position: relative;
+    box-shadow: 0 1px 1px rgba(0,0,0,.09);
+}
+#mpl-ggf-my-fonts #mpl-ggf-mf-header{
+    background: #333;
+    padding: 1%;
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+}
+#mpl-ggf-my-fonts #mpl-ggf-mf-header .sl-close{
+    float: right;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    cursor: pointer;
+}
+#mpl-ggf-my-fonts #mpl-ggf-mf-header span{
+	color: #eee;
+    font-size: 16px;
+    font-weight: 300;
+}
+#mpl-ggf-my-fonts #mpl-ggf-mf-header i{
+	color: #c15050;	
+}
+#mpl-ggf-my-fonts #mpl-ggf-mf-header .sl-close:hover{
+    color: rgba(255, 255, 255, 0.9);		
+}
+#mpl-ggf-my-fonts #mpl-ggf-mf-body{
+    padding: 1% 0px 1% 1%;
+    width: 100%;
+    box-sizing: border-box;
+    border: 3px solid #333;
+    float: left;
+}
+#mpl-ggf-my-fonts #mpl-ggf-mf-body .mpl-ggf-item{
+	box-shadow: none;
+	border: 1px solid #e5e5e5;
+	background: #fafafa;
+	width: 30.5%;
+}
+#mpl-ggf-my-fonts #mpl-ggf-mf-body .mpl-ggf-item .mpl-ggf-item-row{
+    display: none;
+    width: 100%;
+    border-top: 1px solid #eaeaea;
+    padding: 10px 0;
+}
+.mpl-ggf-item .mpl-ggf-item-row .mpl-ggf-col{
+    width: 50%;
+    line-height: 26px;
+    float: left;
+    margin-bottom: 20px;
+}
+#mpl-ggf-my-fonts:after{
+    content: "";
+    position: absolute;
+    right: 60px;
+    top: -20px;
+    border: 10px solid transparent;
+    border-bottom: 10px solid #333;
+}
